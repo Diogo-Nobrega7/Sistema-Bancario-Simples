@@ -1,2 +1,2 @@
-# Sistema-Banc-rio-Simples
+# Sistema-Bancario-Simples
 Sistema Bancário Simples para trabalho de LP1
